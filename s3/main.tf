@@ -16,4 +16,4 @@ provider "aws" {
 
 resource "aws_s3_bucket" "b" {
   bucket = "batch25terraformbucket"
-}
+}.
