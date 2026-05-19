@@ -15,5 +15,5 @@ provider "aws" {
 }
 
 resource "aws_s3_bucket" "b" {
-  bucket = "ajitpatil4241bucket"
+  bucket = "ajitpatil4241bucketnew"
 }
